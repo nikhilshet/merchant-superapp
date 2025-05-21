@@ -1,8 +1,7 @@
-import b2b from '../assets/b2b1.png'
 const B2B =()=>{
     return(
         <div>
-            <img src={b2b} alt="" />
+            <img src="/images/b2b1.png" alt="" />
         </div>
     )
 }

@@ -213,7 +213,7 @@ const Dashboard = () => {
 
           /> */}
           <h2>BBPS B2B</h2>
-          <img src={npst} alt="" className='w-24' />
+          <img src="/images/npst.png" alt="" className='w-24' />
         </div>
 
       </section>
