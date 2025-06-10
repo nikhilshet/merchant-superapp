@@ -1,7 +1,7 @@
 const B2B =()=>{
     return(
         <div>
-            <img src="/images/b2b1.png" alt="" />
+            <img src="/merchantapp/images/b2b1.png" alt="" />
         </div>
     )
 }
